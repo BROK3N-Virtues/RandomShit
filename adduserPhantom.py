@@ -13,7 +13,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 #initial variables
 username = "admin"
-password = "password1"
+password = "1Password123"
 newuser = "whitecelladmin"
 newpass = "white"
 targetfile = ""
